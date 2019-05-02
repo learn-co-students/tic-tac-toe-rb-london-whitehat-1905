@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/alexgyurov/Documents/flatiron-school/tic-tac-toe-rb-london-whitehat-1905/lib/tic_tac_toe.rb": [
+      "/Users/alexgyurov/Development/flatiron-school/tic-tac-toe-rb-london-whitehat-1905/lib/tic_tac_toe.rb": [
         null,
         1,
         null,
@@ -161,6 +161,6 @@
         null
       ]
     },
-    "timestamp": 1556789493
+    "timestamp": 1556789961
   }
 }
